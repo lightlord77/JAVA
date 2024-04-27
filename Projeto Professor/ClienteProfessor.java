@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class clienteProfessor{
+public class ClienteProfessor{
    public static void main(String[] args){
       ArrayList<Professor> profs=new ArrayList<Professor>();
       profs.add(new ProfessorDE(1,"Joao Silva",8000));
